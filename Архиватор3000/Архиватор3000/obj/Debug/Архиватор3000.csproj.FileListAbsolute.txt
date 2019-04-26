@@ -1,0 +1,13 @@
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\bin\Debug\Архиватор3000.exe.config
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\bin\Debug\Архиватор3000.exe
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\bin\Debug\Архиватор3000.pdb
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\obj\Debug\Архиватор3000.csprojResolveAssemblyReference.cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\obj\Debug\MainWindow.baml
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\obj\Debug\MainWindow.g.cs
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\obj\Debug\App.g.cs
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\obj\Debug\Архиватор3000_MarkupCompile.cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\obj\Debug\Архиватор3000.g.resources
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\obj\Debug\Архиватор3000.Properties.Resources.resources
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\obj\Debug\Архиватор3000.csproj.GenerateResource.Cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\obj\Debug\Архиватор3000.exe
+c:\users\kbstudentint\documents\visual studio 2013\Projects\Архиватор3000\Архиватор3000\obj\Debug\Архиватор3000.pdb
